@@ -138,6 +138,17 @@ header{
     background-color: rgb(0, 0, 0, 0.7);
     transition-duration: 0.4s;
 }
+.back{
+  text-align: left;
+}
+#btn99{
+  padding: 0.5em;
+  border-radius: 0.3em;
+  color: whitesmoke;
+  font-size: 1.5em;
+  background: rgb(26, 212, 212);
+  cursor: pointer; /*カーソルをポインターの形（かたち）にする*/
+}
 
 footer> p {
     position: absolute;
